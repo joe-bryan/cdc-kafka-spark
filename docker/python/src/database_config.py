@@ -1,0 +1,5 @@
+pwd = "database_password"
+uid = "database_username"
+server = "database_server"
+db = "database_name"
+port = "database_port"
